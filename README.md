@@ -12,11 +12,14 @@
 - [Recommendations](recommendations)
 - [Limitations](limitations)
 - [References](references)
-
   
 ### Project Overview
 This project aims to conduct a comprehensive EDA on the New York Airbnb 2024 dataset, utilizing Python libraries such as Pandas, NumPy, Seaborn, and Matplotlib. 
 By delving into the data, we will uncover valuable insights into Airbnb listings, pricing trends, and guest preferences in New York City.
+
+
+![output](https://github.com/user-attachments/assets/e1d0e2a6-714c-406c-90ce-258862a03c6a)
+
 
 ### Data Sources
 
